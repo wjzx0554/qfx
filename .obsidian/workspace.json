@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "3bcaf810a884050c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc90132b287171f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a7ec2f21e158c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "轻分析简介.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "轻分析简介"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfcb5415ef6912a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc38f38e28c1925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa08931782782915",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ea1b5ce49b086c48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "72a0c7b74eb361eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 453.5
+  },
+  "right": {
+    "id": "4db991d5210b1f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e024140883b425e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6047378be3d28184",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "二 数据分析与可视化分析-工具总体介绍-备选字段.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "二 数据分析与可视化分析-工具总体介绍-备选字段 的反向链接列表"
+            }
+          },
+          {
+            "id": "2eeeefbf7920bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "二 数据分析与可视化分析-工具总体介绍-备选字段.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "二 数据分析与可视化分析-工具总体介绍-备选字段 的出链列表"
+            }
+          },
+          {
+            "id": "57b68f0086d4982b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23c3492953ebd373",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4e2cd8c5e5c4cf7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "二 数据分析与可视化分析-工具总体介绍-备选字段.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "二 数据分析与可视化分析-工具总体介绍-备选字段 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "49a7ec2f21e158c4",
+  "lastOpenFiles": [
+    "新建文本文档.txt",
+    "轻分析.md",
+    "轻分析简介.md",
+    "轻分析整体介绍111.md",
+    "Clippings/轻分析整体介绍.md",
+    "9a3f87fef4d1a09e057c2aa2f6bc67ca_MD5.png",
+    "249d5a02540be875a7ea875a9ce656f7_MD5.png",
+    "e81eb6aed2f9fa437a86360ddbff33b2_MD5.png",
+    "f48c3ebed6f32c5c73e50172d9baad96_MD5.png",
+    "f91438f429a9ebff746e3255cc21960f_MD5.png",
+    "a19569dbd9dd3947c34a7eb14aef7a61_MD5.png",
+    "02e9dc3e4ea015974bdda0d0af10f676_MD5.png",
+    "d10504d6ae0b849778ef62d650e3aef1_MD5.png",
+    "b3d23efbc0e156ea71df18540f3019f9_MD5.png",
+    "e627bff4b91a71f929f220407b7b85c3_MD5.png",
+    "数据库关联信息  采购订单与采购申请单.md",
+    "星辰/未命名.md",
+    "Clippings",
+    "二 2.1.1 数据分析与可视化-基础知识-多维分析.md",
+    "星辰",
+    "一 1.2.1 数据准备-定义阶段-操作概要.md",
+    "二 2.5.1.1数据分析与可视化-分析工具进阶-原理-数据表关联.md",
+    "二 2.3.1.2 数据分析与可视化-数据分析-概述-合理的意外.md",
+    "一 1.2.4 数据准备-定义阶段-合并数据表.md",
+    "二 2.3.1.1 数据分析与可视化-数据分析-概述-工具界面及基本用法.md",
+    "二 2.5.2.2数据分析与可视化-分析工具进阶-功能-预警规则.md",
+    "未命名.base",
+    "未命名.canvas",
+    "三 3.2.2.8 仪表板-设计器-组件-多行文字.md",
+    "三 3.2.3.4 仪表板-设计器-组件间的联动-页签切换.md",
+    "三 3.2.3.3 仪表板-设计器-组件间的联动-图表联动.md",
+    "三 3.2.3.2 仪表板-设计器-组件间的联动-筛选器级联.md",
+    "三 3.2.3.1 仪表板-设计器-组件间的联动-筛选.md",
+    "三 3.2.2.15 仪表板-设计器-组件-日期-年、年季、年月、年月日.md",
+    "三 3.2.2.14 仪表板-设计器-组件-日期范围.md",
+    "三 3.2.2.14 仪表板-设计器-组件-弹窗选择器.md",
+    "三 3.2.2.13 仪表板-设计器-组件-按钮组.md",
+    "三 3.2.2.12 仪表板-设计器-组件-下拉列表.md",
+    "三 3.2.2.11 仪表板-设计器-组件-实时时间.md",
+    "三 3.2.2.10 仪表板-设计器-组件-网页.md"
+  ]
+}
